@@ -16,8 +16,7 @@ SurakshaAI is a real-time AI-powered system for detecting suspicious activities 
 - **Deep Learning Frameworks**: TensorFlow, PyTorch.
 - **Backend**: Flask/Django (replace with your backend framework).
 - **Frontend**: Minimalistic web interface for real-time monitoring.
-- **Cloud**: Deployed on [your cloud provider, if applicable].
-- **Alert System**: Email/SMS notifications (integrated with Twilio/SMTP).
+- **Alert System**: Email (integrated with SMTP).
 
 ---
 
